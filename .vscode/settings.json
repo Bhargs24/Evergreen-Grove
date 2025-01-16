@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Evergreen-Grove1.sln"
+    "dotnet.defaultSolution": "Evergreen-Grove.sln"
 }
